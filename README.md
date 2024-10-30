@@ -37,7 +37,7 @@ Just two pages to start with. A profile page and a group chat page. And somewher
 
 - #### Step 2 - Profile Page
 
-  **Partially complete** - just a static example portfolio page for now. Still needs to be be turned into an editable React JSX form.
+  **Partially complete** - Just a static example portfolio page for now. Still needs to be be turned into an editable React JSX form.
 
   - A profile page (based on session authentication initially) containing:
     - Profile picture placeholder (use the user's initials as a profile picture to start with)
