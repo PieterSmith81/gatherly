@@ -6,7 +6,7 @@ A social app to make friends locally and meet up with like-minded people.
 
 ## Live Website
 
-### https://gatherly-6tik.onrender.com/
+### https://gatherly-6tik.onrender.com
 
 ## Project Outline
 
