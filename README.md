@@ -30,14 +30,14 @@ Just two pages to start with. A profile page and a group chat page. And somewher
 
 - #### Step 1 - Group Chat Page
 
-  ** Partially complete - The real-time, multi-user chat functionality is working. But the Group Chat dropdown filter is not linked to anything yet. So it is not filtering the main chat window according to the selected location/interest chat group yet. **
+  **Partially complete** - The real-time, multi-user chat functionality is working. But the Group Chat dropdown filter is not linked to anything yet. So it is not filtering the main chat window according to the selected location/interest chat group yet.
 
   - A chat page for chatting in your local groups... Think of this as a "WhatsApp group chat" for each location and interest combination in the system.
 
 
 - #### Step 2 - Profile Page
 
-  ** Partially complete - just a static example portfolio page for now. Still needs to be be turned into an editable React JSX form. **
+  **Partially complete** - just a static example portfolio page for now. Still needs to be be turned into an editable React JSX form.
 
   - A profile page (based on session authentication initially) containing:
     - Profile picture placeholder (use the user's initials as a profile picture to start with)
@@ -57,7 +57,7 @@ Just two pages to start with. A profile page and a group chat page. And somewher
 
 - #### Step 3 - Authentication and Authorisation
 
-  ** Complete **
+  **Complete**
 
   - User authentication and authorisation using a pre-built service like Supabase's Auth service (https://supabase.com/docs/guides/auth)
 
