@@ -9,7 +9,7 @@ A social app to make friends locally and meet up with like-minded people.
 ### https://gatherly-6tik.onrender.com
 
 ## Tech Stack
-React, TypeScript, Next.js, Supabase, Docker, GitHub Actions, Husky, ESLint, Prettier
+React, TypeScript, Next.js, Supabase, Docker, GitHub Actions, Husky, ESLint, Prettier.
 
 ## Project Outline
 
