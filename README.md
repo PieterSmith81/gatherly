@@ -4,7 +4,7 @@
 
 A social app to make friends locally and meet up with like-minded people.
 
-## Live Website
+## Live Demo Website
 
 ### https://gatherly-6tik.onrender.com
 
